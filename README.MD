@@ -5,7 +5,7 @@
 
 ## 🔥🔥🔥 News (Pacific Time)
 - 7:40 AM · Apr 02, 2026: [Nano Claude Code v2.0: A Minimal Python Reimplementation (~3400 Lines), support open and closed source models, skill and memory](https://github.com/SafeRL-Lab/nano-claude-code)
-- 8:36 AM · Apr 01, 2026: Nano Claude Code v1.0: A Minimal Python Reimplementation (~1300 Lines)(https://github.com/SafeRL-Lab/nano-claude-code)
+- 8:36 AM · Apr 01, 2026: [Nano Claude Code v1.0: A Minimal Python Reimplementation](~1300 Lines)(https://github.com/SafeRL-Lab/nano-claude-code)
 - 0:20 AM · Apr 01, 2026: [Analysis of Claude Code source code (Video: In Chinese)](https://www.youtube.com/watch?v=xsg6_Gvr2J0&t=10s)
 - 19:45 PM · Mar 31, 2026: [Claude Code Research Report (In Chinese)](https://github.com/chauncygu/collection-claude-code-source-code/blob/main/docs/claude-code-deep-dive-xelatex.pdf)
 - 17:13 PM · Mar 31, 2026: [Architecture Analysis of Claude Code (In Chinese)](https://mp.weixin.qq.com/s?__biz=MzI0ODk2NDIyMQ==&mid=2247502519&idx=1&sn=1072dd7a822a78709bc7cc3bf0e1dcc2&chksm=e8de6705e2bacc854211663aa02903738560f9e858eb6ce72b94c32fdbf67917badfab2d6536&mpshare=1&scene=1&srcid=0401KpkqfaXFBReRof6AwJ74&sharer_shareinfo=30fa54f1602d1d8bb1a65e7008074e08&sharer_shareinfo_first=30fa54f1602d1d8bb1a65e7008074e08#rd)
